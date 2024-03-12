@@ -47,7 +47,7 @@
 
 <!-- Widget de los lenguajes mas usados -->
 <div align=center>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoscuadra22&layout=compact&theme=github_dark"/>|
 </div>
 
 <!-- Separador animado de instancias -->
