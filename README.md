@@ -14,10 +14,6 @@
 - Me puedes contactar a mi email: cuadracarmonamarcos@gmail.com
 </div>
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-
-
 <!-- Separador animado de instancias -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -27,23 +23,29 @@
         <b> Tecnologias:</b>
 </h2>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNobnR6cm14ZmU1bzI5M3phZTA5dTZrbmJ4OWtucmR6NGwxc3dyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPb0wsH6vdck29t4jY/giphy.gif">
+<img align="right"  width = 400px src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVubGh5YzdxZ3RlOWljMHFlbXlzbjdtNXRpcDU5bHc0M21hMng5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 
+**Lenguajes** <br>
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Front-end & Back-end**<br>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![CSS](https://skillicons.dev/icons?i=css)
+![HTML5](https://skillicons.dev/icons?i=html)
+![Django](https://skillicons.dev/icons?i=django)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![MYSQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Google_Cloud](https://skillicons.dev/icons?i=googlecloud)
+
+**Herramientas**<br>
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 <!-- Separador animado de instancias 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -59,7 +61,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Despedida de mi README -->
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Mi Perfil :) </p>
-</div>
+<div align=center><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"><p>Mi Perfil :) </p></div>
