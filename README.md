@@ -4,24 +4,20 @@
 <!-- Separador animado de instancias -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Icono y presentacion sonbre mi -->
+<!-- Presentacion sonbre mi -->
 <h2 align="center"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> Sobre Mi:</h2>
 
 <div>
-- Soy estudiante de Desarrollador de Aplicaciones Multiplataforma.<br>
-- Mi idea es seguir formándome y conseguir la gran variedad de curos sobre los diferentes tipos de lenguajes de programación y similares para conseguir ser full stack.<br>
-- Fan de la programación y disfrutando del camino.<br>
-- Me puedes contactar a mi email: cuadracarmonamarcos@gmail.com
+- Soy estudiante de Desarrollador de Aplicaciones Multiplataforma.<br><br>
+- Mi idea es seguir formándome y conseguir la gran variedad de curos sobre los diferentes tipos de lenguajes de programación y similares para conseguir ser full stack.<br><br>
+- Fan de la programación y disfrutando del camino.<br><br>
 </div>
 
 <!-- Separador animado de instancias -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Icono y todos mis lenguajes y similares -->
-<h2 align="center">
-        <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-        <b> Tecnologias:</b>
-</h2>
+<!-- Contenido -->
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias:</b></h2>
 
 <img align="right"  width = 400px src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVubGh5YzdxZ3RlOWljMHFlbXlzbjdtNXRpcDU5bHc0M21hMng5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 
@@ -47,18 +43,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
-<!-- Separador animado de instancias 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
-
-<!-- Widget de los lenguajes mas usados 
-<div align=center>
-        <img src="https://myreadme.vercel.app/api/embed/marcoscuadra?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
--->
-
 <!-- Separador animado de instancias -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Despedida de mi README -->
+<!-- Despedida -->
 <div align=center><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100"><p>Mi Perfil :) </p></div>
