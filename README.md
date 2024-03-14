@@ -47,7 +47,7 @@
 
 <!-- Widget de los lenguajes mas usados -->
 <div align=center>
-        <img src="https://myreadme.vercel.app/api/embed/marcoscuadra?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+        <img src="https://myreadme.vercel.app/api/embed/marcoscuadra22?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 <!-- Separador animado de instancias -->
