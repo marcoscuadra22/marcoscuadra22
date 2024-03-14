@@ -42,13 +42,15 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- Separador animado de instancias -->
+<!-- Separador animado de instancias 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
-<!-- Widget de los lenguajes mas usados -->
+<!-- Widget de los lenguajes mas usados 
 <div align=center>
         <img src="https://myreadme.vercel.app/api/embed/marcoscuadra?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
+-->
 
 <!-- Separador animado de instancias -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
